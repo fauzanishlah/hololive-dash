@@ -16,7 +16,7 @@ Navbar = dbc.NavbarSimple(
             label="Source Code",
         ),
     ],
-    brand="Hololive Youtube Analysis",
+    brand="Hololive Youtube Dashboard",
     brand_href="/",
     color="secondary",
     # dark=True,

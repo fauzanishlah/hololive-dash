@@ -1,0 +1,7 @@
+HoloDash-env
+.json
+*.json
+*.pyc
+.env
+.DS_Store
+.ini
